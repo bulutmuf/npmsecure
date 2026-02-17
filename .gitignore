@@ -1,0 +1,20 @@
+node_modules/
+
+npm-debug.log*
+package-lock.json
+
+coverage/
+.nyc_output/
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+*.log
+.env
+
+# you can add new files or folders below this line if needed
